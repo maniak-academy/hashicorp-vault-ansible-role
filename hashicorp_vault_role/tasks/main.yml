@@ -1,0 +1,5 @@
+---
+# tasks file for hashicorp_vault_role
+---
+- name: installing vault
+  include: install.yml
